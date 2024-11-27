@@ -15,7 +15,7 @@
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      CADT <br />
+                      CADT 2 <br />
                       {{ $t("home") }}
                     </h1>
                     <p>
