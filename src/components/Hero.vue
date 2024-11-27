@@ -15,7 +15,7 @@
                 <div class="col-md-6">
                   <div class="detail-box">
                     <h1>
-                      Crypto <br />
+                      CADT <br />
                       {{ $t("home") }}
                     </h1>
                     <p>
@@ -95,11 +95,7 @@
           </div>
         </div>
         <ol class="carousel-indicators">
-          <li
-            data-target="#customCarousel1"
-            data-slide-to="0"
-            class="active"
-          ></li>
+          <li data-target="#customCarousel1" data-slide-to="0" class="active"></li>
           <li data-target="#customCarousel1" data-slide-to="1"></li>
           <li data-target="#customCarousel1" data-slide-to="2"></li>
         </ol>
